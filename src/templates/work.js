@@ -29,17 +29,6 @@ export default ({ data }) => (
           <Img fluid={data.datoCmsWork.coverImage.fluid} />
         </div>
 
-        <div className="sheet__img">
-        <Img fluid={data.datoCmsWork.img.fluid} />
-        </div>
-
-        <div className="sheet__img">
-        <Img fluid={data.datoCmsWork.img.fluid}/>
-        </div>
-
-        <div className="sheet__img">
-          <Img fluid={data.datoCmsWork.img.fluid}/>
-        </div>
 
       </div>
     </article>
