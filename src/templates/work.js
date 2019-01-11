@@ -30,15 +30,15 @@ export default ({ data }) => (
         </div>
 
         <div className="sheet__screenshot1">
-        <img fluid={data.datoCmsWork.img.fluid} />
+        <Img fluid={data.datoCmsWork.img.fluid} />
         </div>
 
         <div className="sheet__screenshot2">
-        <img fluid={data.datoCmsWork.img.fluid}/>
+        <Img fluid={data.datoCmsWork.img.fluid}/>
         </div>
 
         <div className="sheet__screenshot3">
-          <img fluid={data.datoCmsWork.img.fluid}/>
+          <Img fluid={data.datoCmsWork.img.fluid}/>
         </div>
 
       </div>
