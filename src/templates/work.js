@@ -30,15 +30,15 @@ export default ({ data }) => (
         </div>
 
         <div className="sheet__screenshot1">
-        <img src={"../images/Week1-Knexfile"}/>
+        <img src={"./images/Week1-Knexfile"}/>
         </div>
 
         <div className="sheet__screenshot2">
-        <img src={"../images/Week1-Server"}/>
+        <img src={"./images/Week1-Server"}/>
         </div>
 
         <div className="sheet__screenshot3">
-          <img src={"../images/Week1-Knex"}/>
+          <img src={"./images/Week1-Knex"}/>
         </div>
 
       </div>
