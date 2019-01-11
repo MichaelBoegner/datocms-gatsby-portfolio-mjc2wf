@@ -29,15 +29,15 @@ export default ({ data }) => (
           <Img fluid={data.datoCmsWork.coverImage.fluid} />
         </div>
 
-        <div className="sheet__screenshot1">
+        <div className="sheet__img">
         <Img fluid={data.datoCmsWork.img.fluid} />
         </div>
 
-        <div className="sheet__screenshot2">
+        <div className="sheet__img">
         <Img fluid={data.datoCmsWork.img.fluid}/>
         </div>
 
-        <div className="sheet__screenshot3">
+        <div className="sheet__img">
           <Img fluid={data.datoCmsWork.img.fluid}/>
         </div>
 
