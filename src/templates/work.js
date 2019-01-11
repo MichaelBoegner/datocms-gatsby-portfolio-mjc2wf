@@ -29,15 +29,15 @@ export default ({ data }) => (
           <Img fluid={data.datoCmsWork.coverImage.fluid} />
         </div>
 
-        <div className="sheet__gallery">
+        <div className="sheet__screenshot1">
         <img src={"../images/Week1-Knexfile"}/>
         </div>
 
-        <div className="sheet__gallery">
+        <div className="sheet__screenshot2">
         <img src={"../images/Week1-Server"}/>
         </div>
 
-        <div className="sheet__gallery">
+        <div className="sheet__screenshot3">
           <img src={"../images/Week1-Knex"}/>
         </div>
 
